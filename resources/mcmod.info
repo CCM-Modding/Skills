@@ -1,0 +1,18 @@
+[
+{
+  "modid": "skills",
+  "name": "Skills",
+  "description": "Skills cause RPG",
+  "credits": "Made By Captain Shadows, ClayCorp, Morton, and The rest of the CCM Modding Team, with special help from AbrarSyed(and the rest of the FE team, including Dries007), RebelKeithy, and a bunch of other people, Also a big thanks to The COFH Team for their Library, Jadar for Developer Capes API, and last but not least Shedar for ModStats. Also to the Forge and MCP crew, who without them no Minecraft mods would be possible",
+  "logoFile": "/assets/skills/textures/logo.png",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/CCM-Modding/Skills",
+  "updateUrl": "http://jenkins.dries007.net/view/CCM/job/ /",
+  "authors": [ "claycorp", "captain_shadows", "morton00000" ],
+  "screenshots": [ "/assets/skills/textures/screenshots/screenshot.png" ],
+  "dependencies": [
+     "required-after:nucleum_world"
+  ]
+}
+]
